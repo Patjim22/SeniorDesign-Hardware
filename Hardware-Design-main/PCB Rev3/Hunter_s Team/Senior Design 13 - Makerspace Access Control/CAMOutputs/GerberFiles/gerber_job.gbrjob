@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-02-24T20:41:18Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "V5_MainPCB_Layout v8"
+        },
+        "Owner": "Hunter Marlette <hemarlet@ncsu.edu>",
+        "Size": {
+            "X": 63.01,
+            "Y": 105.04
+        }
+    }
+}
